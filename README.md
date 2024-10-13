@@ -8,3 +8,19 @@ Fast, threads, multi process, good working kahoot account generator
 # Console version is hella buggy
 
 # Made by 8h3
+
+# instructions
+```
+git clone https://github.com/8h3-coder/Kahoot-account-gen
+cd Kahoot-account-gen
+python main.py 
+```
+
+# linux instructions 
+```
+python -m venv env
+source env/bin/activate
+git clone https://github.com/8h3-coder/Kahoot-account-gen
+cd Kahoot-account-gen
+python main.py
+```
