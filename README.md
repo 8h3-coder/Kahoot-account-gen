@@ -5,6 +5,6 @@ Fast, threads, multi process, good working kahoot account generator
 
 ![image](https://github.com/user-attachments/assets/166bba3c-a012-48db-a5df-29beed56addb)
 
-# Console version is hella laggy
+# Console version is hella buggy
 
 # Made by 8h3
